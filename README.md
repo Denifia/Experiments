@@ -5,15 +5,19 @@ A collection of experiments I've written to confirm my understanding or learn so
 - todo
   - file globbing
   - I/O streams
-  - pipes
+  - [pipelines](https://learn.microsoft.com/en-us/dotnet/standard/io/pipelines)
   - cancellation tokens
+  - [span\<t\> & memory\<t\>](https://learn.microsoft.com/en-us/dotnet/standard/memory-and-spans/memory-t-usage-guidelines)
   - globalization
   - datetime
   - events
   - channels
 - doing
+  - streaming
+- done
+  - command line
   - library sharing
   - IConfiguration
-- done
-  - delegates
+  - [delegates](https://learn.microsoft.com/en-US/dotnet/csharp/programming-guide/delegates/)
   - logging
+  - [nullability](https://learn.microsoft.com/en-us/dotnet/csharp/nullable-references)
