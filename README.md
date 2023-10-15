@@ -4,6 +4,7 @@ A collection of experiments I've written to confirm my understanding or learn so
 
 - todo
   - file globbing
+  - IAsyncEnumerable
   - I/O streams
   - [pipelines](https://learn.microsoft.com/en-us/dotnet/standard/io/pipelines)
   - cancellation tokens
