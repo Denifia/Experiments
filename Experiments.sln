@@ -23,7 +23,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nullability", "Nullability\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommandLiner", "CommandLiner\CommandLiner.csproj", "{B3C52DDB-A9B1-4CDC-83DA-537BD1783ED4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structs", "Structs\Structs.csproj", "{8CAC437D-DCFF-4511-9604-A44BF076C866}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Structs", "Structs\Structs.csproj", "{8CAC437D-DCFF-4511-9604-A44BF076C866}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProducerConsumerChannels", "ProducerConsumerChannels\ProducerConsumerChannels.csproj", "{97585BD0-6EF7-495F-9EC4-81FBA337173B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PubSub", "PubSub\PubSub.csproj", "{2643C23C-2D38-4707-869D-ADCF7CD181B2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +67,14 @@ Global
 		{8CAC437D-DCFF-4511-9604-A44BF076C866}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CAC437D-DCFF-4511-9604-A44BF076C866}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CAC437D-DCFF-4511-9604-A44BF076C866}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97585BD0-6EF7-495F-9EC4-81FBA337173B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97585BD0-6EF7-495F-9EC4-81FBA337173B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97585BD0-6EF7-495F-9EC4-81FBA337173B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97585BD0-6EF7-495F-9EC4-81FBA337173B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2643C23C-2D38-4707-869D-ADCF7CD181B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2643C23C-2D38-4707-869D-ADCF7CD181B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2643C23C-2D38-4707-869D-ADCF7CD181B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2643C23C-2D38-4707-869D-ADCF7CD181B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
