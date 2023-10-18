@@ -13,6 +13,7 @@ A collection of experiments I've written to confirm my understanding or learn so
   - events
 - doing
 - done
+  - [structs](./StringsInStructs/)
   - [cancellation tokens](./CancelIt/)
   - [streaming](./Streaming/)
   - channels
