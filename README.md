@@ -7,13 +7,13 @@ A collection of experiments I've written to confirm my understanding or learn so
   - IAsyncEnumerable
   - I/O streams
   - pipelines ([microsoft guide](https://learn.microsoft.com/en-us/dotnet/standard/io/pipelines))
-  - cancellation tokens
   - span\<t\> & memory\<t\> ([microsoft guide](https://learn.microsoft.com/en-us/dotnet/standard/memory-and-spans/memory-t-usage-guidelines))
   - globalization
   - datetime
   - events
 - doing
 - done
+  - [cancellation tokens](./CancelIt/)
   - [streaming](./Streaming/)
   - channels
     - [producer-consumer](./ProducerConsumerChannels/)
