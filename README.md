@@ -11,8 +11,10 @@ A collection of experiments I've written to confirm my understanding or learn so
   - globalization
   - datetime
   - events
+  - opentelemetry
 - doing
 - done
+  - [shared/pooled resources](./PooledResources/)
   - [structs](./StringsInStructs/)
   - [cancellation tokens](./CancelIt/)
   - [streaming](./Streaming/)

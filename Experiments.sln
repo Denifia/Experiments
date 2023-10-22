@@ -33,7 +33,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CancelIt", "CancelIt\Cancel
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringsInStructs", "StringsInStructs\StringsInStructs.csproj", "{4FCD9802-4BB8-462C-8CAD-64146FAD9218}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackgroundQueue", "BackgroundQueue\BackgroundQueue.csproj", "{82A50DF8-2387-4611-A8F4-753B809EF31F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BackgroundQueue", "BackgroundQueue\BackgroundQueue.csproj", "{82A50DF8-2387-4611-A8F4-753B809EF31F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PooledResources", "PooledResources\PooledResources.csproj", "{5FE80092-83CD-4C2A-BF1C-02797D09172B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{82A50DF8-2387-4611-A8F4-753B809EF31F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82A50DF8-2387-4611-A8F4-753B809EF31F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82A50DF8-2387-4611-A8F4-753B809EF31F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FE80092-83CD-4C2A-BF1C-02797D09172B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FE80092-83CD-4C2A-BF1C-02797D09172B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FE80092-83CD-4C2A-BF1C-02797D09172B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FE80092-83CD-4C2A-BF1C-02797D09172B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
