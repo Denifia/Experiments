@@ -37,7 +37,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BackgroundQueue", "Backgrou
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PooledResources", "PooledResources\PooledResources.csproj", "{5FE80092-83CD-4C2A-BF1C-02797D09172B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevelopmentJwt", "DevelopmentJwt\DevelopmentJwt.csproj", "{0307CA94-1CA9-4D2B-9C36-48BE2BD0C6F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevelopmentJwt", "DevelopmentJwt\DevelopmentJwt.csproj", "{0307CA94-1CA9-4D2B-9C36-48BE2BD0C6F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevelopmentJwt.Tests", "DevelopmentJwt.Tests\DevelopmentJwt.Tests.csproj", "{3D455EE0-E9AF-499D-9A6C-890D5BF3CC37}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{0307CA94-1CA9-4D2B-9C36-48BE2BD0C6F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0307CA94-1CA9-4D2B-9C36-48BE2BD0C6F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0307CA94-1CA9-4D2B-9C36-48BE2BD0C6F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D455EE0-E9AF-499D-9A6C-890D5BF3CC37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D455EE0-E9AF-499D-9A6C-890D5BF3CC37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D455EE0-E9AF-499D-9A6C-890D5BF3CC37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D455EE0-E9AF-499D-9A6C-890D5BF3CC37}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
