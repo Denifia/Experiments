@@ -19,6 +19,7 @@ A collection of experiments I've written to confirm my understanding or learn so
   - channels
     - [producer-consumer](./ProducerConsumerChannels/)
     - [publisher-subscriber](./PubSub/)
+    - [background queue](./BackgroundQueue/)
   - [command line](./CommandLiner/)
   - [library sharing](./LibrarySharing/)
   - [IConfiguration](./Config/)
