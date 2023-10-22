@@ -14,6 +14,7 @@ A collection of experiments I've written to confirm my understanding or learn so
   - opentelemetry
 - doing
 - done
+  - [asp.net dev jwt](./DevelopmentJwt/) ([microsoft guide](https://learn.microsoft.com/en-us/aspnet/core/security/authentication/jwt-authn?view=aspnetcore-7.0&tabs=windows))
   - [shared/pooled resources](./PooledResources/)
   - [structs](./StringsInStructs/)
   - [cancellation tokens](./CancelIt/)
