@@ -29,3 +29,5 @@ A collection of experiments I've written to confirm my understanding or learn so
   - [delegates](./Delegates/) ([microsoft guide](https://learn.microsoft.com/en-US/dotnet/csharp/programming-guide/delegates/))
   - [logging](./Logging/)
   - [nullability](./Nullability/) ([microsoft guide](https://learn.microsoft.com/en-us/dotnet/csharp/nullable-references))
+
+just testing #
