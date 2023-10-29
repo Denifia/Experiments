@@ -3,6 +3,7 @@
 A collection of experiments I've written to confirm my understanding or learn something new.
 
 - todo
+  - opentelemetry
   - file globbing
   - IAsyncEnumerable
   - I/O streams
@@ -11,7 +12,6 @@ A collection of experiments I've written to confirm my understanding or learn so
   - globalization
   - datetime
   - events
-  - opentelemetry
 - doing
 - done
   - [asp.net dev jwt](./DevelopmentJwt/) ([microsoft guide](https://learn.microsoft.com/en-us/aspnet/core/security/authentication/jwt-authn?view=aspnetcore-7.0&tabs=windows))
@@ -29,3 +29,4 @@ A collection of experiments I've written to confirm my understanding or learn so
   - [delegates](./Delegates/) ([microsoft guide](https://learn.microsoft.com/en-US/dotnet/csharp/programming-guide/delegates/))
   - [logging](./Logging/)
   - [nullability](./Nullability/) ([microsoft guide](https://learn.microsoft.com/en-us/dotnet/csharp/nullable-references))
+  - [Async in constructors](./AsyncConstructor/)
